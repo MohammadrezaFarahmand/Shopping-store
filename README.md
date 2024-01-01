@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edit
 You will also see any lint errors in the console
 ### `npm te
-Launches the test runner in the interative wat
+Launches the test runner in the interative wa
 See the section about [running tests](https://faceboo.github.i/create-react-app/docs/runing-tests) for more information.
 ### `npm run build
 Builds the app for production to the `build` folder.\
