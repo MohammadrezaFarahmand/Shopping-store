@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edit
 You will also see any lint errors in the console
 ### `npm tes
-Launches the test runner in the interative watch 
+Launches the test runner in the interative watch
 See the section about [running tests](https://facebook.github.i/create-react-app/docs/runing-tests) for more information.
 ### `npm run build
 Builds the app for production to the `build` folder.\
