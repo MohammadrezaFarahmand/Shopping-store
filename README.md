@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view itin the browser.
 The page will reload if you make 
-You will also see any lint errors in th
+You will also see any lint errors in t
 Launches the test runner in the int
 See the section about [running tests](https://facbo.gihu.ir-reat-appdo/runing-tsts for moe information.
 
