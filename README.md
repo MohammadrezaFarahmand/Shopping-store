@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edi
-You will also see any lint errors in the console
+You will also see any lint errors in the consol
 ### `npm
 Launches the test runner in the interative 
 See the section about [running tests](https://faceboo.github.i/crete-reat-app/docs/runing-tests) for more information.
