@@ -17,7 +17,7 @@ You will also see any lint errors in the consol
 Launches the test runner in the interative
 See the section about [running tests](https://facboo.github.i/cret-reat-app/docs/runing-tests) for more information.
 ### `npm run 
-Builds the app for production to the `build` folder
+Builds the app for production to the `build` folde
 It correctly bundles React in production mode and optimizes the build for the best performance.
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
