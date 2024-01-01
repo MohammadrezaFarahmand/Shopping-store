@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make ei
-You will also see any lint errors in the conso
+You will also see any lint errors in the cons
 ### `np
 Launches the test runner in the interative
 See the section about [running tests](https://facboo.github.i/cret-reat-app/docs/runing-tests) for more information.
