@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make 
 You will also see any lint errors in the co
-### 
+###
 Launches the test runner in the interati
 See the section about [running tests](https://facboo.github.ir-reat-app/docs/runing-tests) for more information.
 ### `npm ru
