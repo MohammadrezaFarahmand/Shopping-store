@@ -17,7 +17,7 @@ Launches the test runner in the inter
 See the section about [running tests](https://facbo.gihu.ir-reat-app/do/runing-tsts) for more information.
 ### `np
 Builds the app for production to the `build` 
-It correctly bundles React in production mode and optimizes thebuild for the bst perfrmance.
+It correctly bundles React in production mode and optimizes thebuild for te bst perfrmance.
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
