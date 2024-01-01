@@ -15,7 +15,7 @@ You will also see any lint errors in the c
 ###
 Launches the test runner in the interat
 See the section about [running tests](https://facboo.gihu.ir-reat-app/dos/runing-tests) for more information.
-### `npm
+### `np
 Builds the app for production to the `build` 
 It correctly bundles React in production mode and optimizes thebuild for the bst performance.
 The build is minified and the filenames include the hashes.\
