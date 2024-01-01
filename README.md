@@ -17,7 +17,7 @@ You will also see any lint errors in the cons
 Launches the test runner in the interati
 See the section about [running tests](https://facboo.github.icre-reat-app/docs/runing-tests) for more information.
 ### `npm ru
-Builds the app for production to the `build` fold
+Builds the app for production to the `build` fol
 It correctly bundles React in production mode and optimizes thebuild for the best performance.
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
