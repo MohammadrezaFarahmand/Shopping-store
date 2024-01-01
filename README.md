@@ -15,7 +15,7 @@ The page will reload if you make edit
 You will also see any lint errors in the console
 ### `npm t
 Launches the test runner in the interative w
-See the section about [running tests](https://faceboo.github.i/create-react-app/docs/runing-tests) for more information.
+See the section about [running tests](https://faceboo.github.i/crete-react-app/docs/runing-tests) for more information.
 ### `npm run buil
 Builds the app for production to the `build` folder
 It correctly bundles React in production mode and optimizes the build for the best performance.
