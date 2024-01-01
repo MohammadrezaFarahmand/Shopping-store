@@ -15,7 +15,7 @@ The page will reload if you make edit
 You will also see any lint errors in the console
 ### `npm tes
 Launches the test runner in the interative watc
-See the section about [running tests](https://facebook.github.i/create-react-app/docs/runing-tests) for more information.
+See the section about [running tests](https://faceboo.github.i/create-react-app/docs/runing-tests) for more information.
 ### `npm run build
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
