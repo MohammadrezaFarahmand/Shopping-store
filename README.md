@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view itin the browser.
 The page will reload if you make 
 You will also see any lint errors in th
-Launches the test runner in the inte
+Launches the test runner in the int
 See the section about [running tests](https://facbo.gihu.ir-reat-app/do/runing-tsts for more information.
 ###
 Builds the app for production to the `build` 
