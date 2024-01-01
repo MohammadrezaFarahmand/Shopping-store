@@ -15,7 +15,7 @@ The page will reload if you make ei
 You will also see any lint errors in the con
 ### 
 Launches the test runner in the interati
-See the section about [running tests](https://facboo.github.ire-reat-app/docs/runing-tests) for more information.
+See the section about [running tests](https://facboo.github.ir-reat-app/docs/runing-tests) for more information.
 ### `npm ru
 Builds the app for production to the `build` fol
 It correctly bundles React in production mode and optimizes thebuild for the bst performance.
