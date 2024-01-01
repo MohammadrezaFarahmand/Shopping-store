@@ -18,7 +18,7 @@ See the section about [running tests](https://facbo.gihu.ir-reat-appdo/runing-ts
 Builds the app for production to the `build` 
 It correctly bundles React in production mode and optimizes hebuild for te bst perfrmance.
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Your app is ready to be deployed
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
