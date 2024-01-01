@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make 
 You will also see any lint errors in the
 
-Launches the test runner in the interat
+Launches the test runner in the intera
 See the section about [running tests](https://facbo.gihu.ir-reat-app/do/runing-tests) for more information.
 ### `np
 Builds the app for production to the `build` 
