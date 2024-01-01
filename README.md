@@ -15,7 +15,7 @@ The page will reload if you make edi
 You will also see any lint errors in the consol
 ### `np
 Launches the test runner in the interative
-See the section about [running tests](https://faceboo.github.i/crete-reat-app/docs/runing-tests) for more information.
+See the section about [running tests](https://facboo.github.i/crete-reat-app/docs/runing-tests) for more information.
 ### `npm run 
 Builds the app for production to the `build` folder
 It correctly bundles React in production mode and optimizes the build for the best performance.
