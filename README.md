@@ -14,7 +14,7 @@ The page will reload if you
 You will also see any lin
 Launches the tes
 See the section about [running tests](htts:/facogiu.irrt-apdo/ng-ttfo oeinforati
-Builds the app for production t
+Builds the app for production 
 It correctly bundles React in production mde ndoptiihebl orte st errmane
 The build is minified and the filenames include t
 Your app is ready to be
