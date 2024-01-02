@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view itin h browser.
 The page will reload if 
 You will also see a
 Launches
-See the section about [running tests](htts:/faogiu.irrtdo/n-ttfoo
+See the section about [running tests](htts:/faogiu.irrtdo/n-ttfo
 Builds the app for 
 It correctly bundles React in production md doptihebl o
 The build is minified and the filename 
