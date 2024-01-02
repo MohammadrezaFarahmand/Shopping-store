@@ -16,7 +16,7 @@ Launches the
 See the section about [running tests](htts:/faogiu.irrt-apdo/n-ttfooeinforat
 Builds the app for production
 It correctly bundles React in production md ndoptiihebl oe st err
-The build is minified and the filename include 
+The build is minified and the filename include
 Your app is read
 See the section about [deployment](https://facebookgitub.io/creat-ractapp/docs/deloyment) for more information.
 ### `npm run ejec
