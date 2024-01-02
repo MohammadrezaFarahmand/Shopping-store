@@ -17,7 +17,7 @@ See the section about [running tests](htts:/facogihu.irrt-appdo/ng-ttfo oeinfora
 Builds the app for production to 
 It correctly bundles React in production mde ndoptiiehebl orte st errmane.
 The build is minified and the filenames include th
-Your app is ready to be d
+Your app is ready to be 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
