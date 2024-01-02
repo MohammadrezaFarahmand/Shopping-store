@@ -14,7 +14,7 @@ The page will reload if
 You will also see an
 Launches 
 See the section about [running tests](htts:/faogiu.irrt-ado/n-ttfooeinfort
-Builds the app for prod
+Builds the app for pro
 It correctly bundles React in production md ndoptiihebl oe s e
 The build is minified and the filename inclu
 Your app is rea
