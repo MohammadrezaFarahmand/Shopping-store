@@ -12,7 +12,7 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view itin th browser.
 The page will reload if you make
 You will also see any lint errors 
-Launches the test runner in 
+Launches the test runner in
 See the section about [running tests](https://faco.gihu.ir-rat-appdo/unig-ttfor moe information.
 Builds the app for production to the `b
 It correctly bundles React in production mode and optiizeshebild or te st perfrmane.
