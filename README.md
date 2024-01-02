@@ -16,7 +16,7 @@ Launches the test runn
 See the section about [running tests](htts://facogihu.irrt-appdo/unig-ttfo oe inforati
 Builds the app for production to th
 It correctly bundles React in production mde ndoptiizehebl orte st errmane.
-The build is minified and the filenames include theh
+The build is minified and the filenames include the
 Your app is ready to be d
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
