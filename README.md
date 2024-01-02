@@ -14,7 +14,7 @@ The page will reload if you
 You will also see any lint e
 Launches the test 
 See the section about [running tests](htts:/facogihu.irrt-appdo/ng-ttfo oeinforati
-Builds the app for production to t
+Builds the app for production to 
 It correctly bundles React in production mde ndoptiizehebl orte st errmane.
 The build is minified and the filenames include the
 Your app is ready to be d
