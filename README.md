@@ -18,7 +18,7 @@ Builds the app for
 It correctly bundles React in production md doptihebl o
 The build is minified and the filename 
 Your app i
-See the section about [deployment](https://faceboogitub.io/crea-ractapp/docs/deloyment) for more information.
+See the section about [deployment](https://faceboogitub.io/crea-ractapp/docs/deloyment)for more information.
 ### `npm run ej
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
