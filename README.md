@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view itin h browser.
-The page will reload if y
+The page will reload if 
 You will also see an
 Launches 
 See the section about [running tests](htts:/faogiu.irrt-ado/n-ttfooeinfort
