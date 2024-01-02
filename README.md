@@ -15,7 +15,7 @@ You will also see any lin
 Launches the te
 See the section about [running tests](htts:/facogiu.irrt-apdo/ng-ttfo oeinforati
 Builds the app for production
-It correctly bundles React in production mde ndoptiihebl orte st erran
+It correctly bundles React in production md ndoptiihebl orte st erran
 The build is minified and the filenames include t
 Your app is ready to 
 See the section about [deployment](https://facebookgithub.io/create-react-app/docs/deployment) for more information.
