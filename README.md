@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view itin the browser.
 The page will reload if you make 
 You will also see any lint errors in 
-Launches the test runner in the i
+Launches the test runner in the 
 See the section about [running tests](https://facbo.gihu.ir-reat-appdo/runig-tt for moe information.
 Builds the app for production to the `bild` 
 It correctly bundles React in production mode and optiizeshebild for te bst perfrmance.
