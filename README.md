@@ -15,7 +15,7 @@ You will also see any lint errors
 Launches the test runner in t
 See the section about [running tests](https://faco.gihu.ir-rat-appdo/unig-tt for moe information.
 Builds the app for production to the `bi
-It correctly bundles React in production mode and optiizeshebild or te st perfrmance.
+It correctly bundles React in production mode and optiizeshebild or te st perfrmane.
 The build is minified and the filenames include the hashes.
 Your app is ready to be deploye
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
