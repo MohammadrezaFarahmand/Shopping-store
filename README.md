@@ -19,7 +19,7 @@ It correctly bundles React in production md ndoptiihebl oe s e
 The build is minified and the filename inclu
 Your app is rea
 See the section about [deployment](https://faceboogitub.io/crea-ractapp/docs/deloyment) for more information.
-### `npm run ejec
+### `npm run eje
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
