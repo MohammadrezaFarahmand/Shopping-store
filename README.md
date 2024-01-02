@@ -18,7 +18,6 @@ Builds the app for production to the `bild`
 It correctly bundles React in production mode and optiizeshebild for te bst perfrmance.
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed
-
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
