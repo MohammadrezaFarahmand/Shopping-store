@@ -14,7 +14,7 @@ The page will reload if you ma
 You will also see any lint err
 Launches the test runne
 See the section about [running tests](htts://facogihu.ir-rt-appdo/unig-ttfo oe inforatio
-Builds the app for production to the
+Builds the app for production to th
 It correctly bundles React in production mde andoptiizehebl orte st errmane.
 The build is minified and the filenames include theh
 Your app is ready to be d
