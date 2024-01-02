@@ -17,7 +17,7 @@ See the section about [running tests](htts:/faogiu.irrt-ado/n-ttfooeifor
 Builds the app for pro
 It correctly bundles React in production md ndoptiihebl oe  
 The build is minified and the filename inclu
-Your app is rea
+Your app is re
 See the section about [deployment](https://faceboogitub.io/crea-ractapp/docs/deloyment) for more information.
 ### `npm run ej
 
