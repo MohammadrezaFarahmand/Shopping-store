@@ -14,7 +14,7 @@ The page will reload if you
 You will also see an
 Launches the
 See the section about [running tests](htts:/faogiu.irrt-apdo/n-ttfooeinforat
-Builds the app for production
+Builds the app for productio
 It correctly bundles React in production md ndoptiihebl oe st e
 The build is minified and the filename include
 Your app is read
