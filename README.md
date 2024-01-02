@@ -12,7 +12,7 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view itin h browser.
 The page will reload if you m
 You will also see any lint er
-Launches the test runn
+Launches the test run
 See the section about [running tests](htts:/facogihu.irrt-appdo/ung-ttfo oe inforati
 Builds the app for production to t
 It correctly bundles React in production mde ndoptiizehebl orte st errmane.
