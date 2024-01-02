@@ -12,7 +12,7 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view itin h browser.
 The page will reload if you 
 You will also see any lin
-Launches the tes
+Launches the te
 See the section about [running tests](htts:/facogiu.irrt-apdo/ng-ttfo oeinforati
 Builds the app for production 
 It correctly bundles React in production mde ndoptiihebl orte st errmane
