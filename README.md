@@ -17,7 +17,7 @@ See the section about [running tests](https://faco.gihu.ir-rat-appdo/unig-tt for
 Builds the app for production to the `bi
 It correctly bundles React in production mode and optiizeshebild or te st perfrmane.
 The build is minified and the filenames include the hashes.
-Your app is ready to be deploye
+Your app is ready to be deploy
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
