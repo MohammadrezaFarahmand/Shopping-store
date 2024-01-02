@@ -14,7 +14,7 @@ The page will reload if you mak
 You will also see any lint errors 
 Launches the test runner i
 See the section about [running tests](htts://facogihu.ir-rat-appdo/unig-ttfor moe information
-Builds the app for production to the `b
+Builds the app for production to the `
 It correctly bundles React in production mde and optiizeshebild or te st perfrmane.
 The build is minified and the filenames include the hashes
 Your app is ready to be dep
