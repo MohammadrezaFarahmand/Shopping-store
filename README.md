@@ -16,7 +16,7 @@ Launches the test runner
 See the section about [running tests](htts://facogihu.ir-rat-appdo/unig-ttfo oe information
 Builds the app for production to the
 It correctly bundles React in production mde and optiizeshebld orte st erfrmane.
-The build is minified and the filenames include the hashe
+The build is minified and the filenames include the hash
 Your app is ready to be d
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
