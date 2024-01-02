@@ -18,7 +18,7 @@ Builds the app for produc
 It correctly bundles React in production md ndoptiihebl oe st e
 The build is minified and the filename includ
 Your app is rea
-See the section about [deployment](https://facebookgitub.io/crea-ractapp/docs/deloyment) for more information.
+See the section about [deployment](https://faceboogitub.io/crea-ractapp/docs/deloyment) for more information.
 ### `npm run ejec
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
