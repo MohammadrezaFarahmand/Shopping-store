@@ -14,7 +14,7 @@ The page will reload if
 You will also see an
 Launches 
 See the section about [running tests](htts:/faogiu.irrt-ado/n-ttfooefo
-Builds the app for p
+Builds the app for 
 It correctly bundles React in production md doptiihebl oe
 The build is minified and the filename in
 Your app is r
