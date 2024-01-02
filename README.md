@@ -14,7 +14,7 @@ The page will reload if you make
 You will also see any lint errors 
 Launches the test runner in t
 See the section about [running tests](https://facbo.gihu.ir-rat-appdo/unig-tt for moe information.
-Builds the app for production to the `bild
+Builds the app for production to the `bil
 It correctly bundles React in production mode and optiizeshebild for te st perfrmance.
 The build is minified and the filenames include the hashes.
 Your app is ready to be deploye
