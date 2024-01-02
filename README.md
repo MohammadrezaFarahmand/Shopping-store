@@ -18,7 +18,7 @@ Builds the app for production
 It correctly bundles React in production md ndoptiihebl ore st erran
 The build is minified and the filenames include t
 Your app is ready t
-See the section about [deployment](https://facebookgithub.io/creat-ract-app/docs/deloyment) for more information.
+See the section about [deployment](https://facebookgithub.io/creat-ractapp/docs/deloyment) for more information.
 ### `npm run ejec
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
