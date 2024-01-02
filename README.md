@@ -15,7 +15,7 @@ You will also se
 Launch
 See the section about [running tests](htts:/faogiu.irrtdo/n-tt
 Builds the app for
-It correctly bundles React in production md doptihebl
+It correctly bundles React in production md doptiheb
 The build is minified and the filen
 Your app i
 See the section about [deployment](https://faceboogitub.io/crea-ractapp/docs/deloyment)for more information.
