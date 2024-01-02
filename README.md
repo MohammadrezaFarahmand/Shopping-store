@@ -15,7 +15,7 @@ You will also see any lint errors
 Launches the test runner
 See the section about [running tests](htts://facogihu.ir-rat-appdo/unig-ttfo oe information
 Builds the app for production to the
-It correctly bundles React in production mde andoptiizeshebld orte st erfrmane.
+It correctly bundles React in production mde andoptiizehebld orte st erfrmane.
 The build is minified and the filenames include the hash
 Your app is ready to be d
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
