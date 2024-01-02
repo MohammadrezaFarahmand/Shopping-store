@@ -15,7 +15,7 @@ You will also see any lint
 Launches the test
 See the section about [running tests](htts:/facogihu.irrt-appdo/ng-ttfo oeinforati
 Builds the app for production to 
-It correctly bundles React in production mde ndoptiiehebl orte st errmane.
+It correctly bundles React in production mde ndoptiihebl orte st errmane.
 The build is minified and the filenames include th
 Your app is ready to be 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
