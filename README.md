@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view itin h browser.
 The page will reload if you ma
 You will also see any lint err
 Launches the test runn
-See the section about [running tests](htts://facogihu.ir-rt-appdo/unig-ttfo oe inforatio
+See the section about [running tests](htts://facogihu.irrt-appdo/unig-ttfo oe inforatio
 Builds the app for production to th
 It correctly bundles React in production mde ndoptiizehebl orte st errmane.
 The build is minified and the filenames include theh
