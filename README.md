@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view itin h browser.
-The page will reload if you ma
+The page will reload if you m
 You will also see any lint err
 Launches the test runn
 See the section about [running tests](htts://facogihu.irrt-appdo/unig-ttfo oe inforati
