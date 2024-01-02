@@ -15,7 +15,7 @@ You will also see an
 Launches t
 See the section about [running tests](htts:/faogiu.irrt-apdo/n-ttfooeinfort
 Builds the app for prod
-It correctly bundles React in production md ndoptiihebl oe st e
+It correctly bundles React in production md ndoptiihebl oe s e
 The build is minified and the filename includ
 Your app is rea
 See the section about [deployment](https://faceboogitub.io/crea-ractapp/docs/deloyment) for more information.
