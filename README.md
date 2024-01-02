@@ -15,7 +15,7 @@ You will also see any lint errors in
 Launches the test runner in the in
 See the section about [running tests](https://facbo.gihu.ir-reat-appdo/runig-tt for moe information.
 Builds the app for production to the `bild` 
-It correctly bundles React in production mode and optiizes hebild for te bst perfrmance.
+It correctly bundles React in production mode and optiizeshebild for te bst perfrmance.
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed
 
