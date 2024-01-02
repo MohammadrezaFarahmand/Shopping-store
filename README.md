@@ -15,7 +15,7 @@ You will also see any
 Launches the 
 See the section about [running tests](htts:/faogiu.irrt-apdo/ng-ttfo oeinforat
 Builds the app for production
-It correctly bundles React in production md ndoptiihebl ore st erran
+It correctly bundles React in production md ndoptiihebl ore st erra
 The build is minified and the filenames include t
 Your app is ready 
 See the section about [deployment](https://facebookgitub.io/creat-ractapp/docs/deloyment) for more information.
