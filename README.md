@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view itin th browser.
-The page will reload if you make
+The page will reload if you mak
 You will also see any lint errors 
 Launches the test runner i
 See the section about [running tests](https://faco.gihu.ir-rat-appdo/unig-ttfor moe information.
