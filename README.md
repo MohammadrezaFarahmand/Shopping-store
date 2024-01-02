@@ -12,7 +12,7 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view iti h browser.
 The page will reload if 
 You will also se
-Launc
+Laun
 See the section about [running tests](htts:/faogiu.irrtdo/n-tt
 Builds the app fo
 It correctly bundles React in production md doptiheb
