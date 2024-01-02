@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view itin h browser.
 The page will reload if you 
-You will also see any lin
+You will also see any li
 Launches the 
 See the section about [running tests](htts:/faogiu.irrt-apdo/ng-ttfo oeinforat
 Builds the app for production
