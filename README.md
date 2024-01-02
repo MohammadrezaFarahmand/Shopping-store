@@ -14,7 +14,7 @@ The page will reload if
 You will also se
 Launches
 See the section about [running tests](htts:/faogiu.irrtdo/n-ttf
-Builds the app for 
+Builds the app for
 It correctly bundles React in production md doptihebl
 The build is minified and the filen
 Your app i
