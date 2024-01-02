@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view iti h browser.
 The page will reload if 
-You will also s
+You will also 
 Laun
 See the section about [running tests](htts:/faogiuirrtdo/n-tt
 Builds the app fo
