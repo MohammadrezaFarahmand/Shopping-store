@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view itin h browser.
+Open [http://localhost:3000](http://localhost:3000) to view iti h browser.
 The page will reload if 
 You will also see 
 Launches
