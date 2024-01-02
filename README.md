@@ -16,7 +16,7 @@ Launches
 See the section about [running tests](htts:/faogiu.irrtdo/n-ttfo
 Builds the app for 
 It correctly bundles React in production md doptihebl 
-The build is minified and the filena
+The build is minified and the filen
 Your app i
 See the section about [deployment](https://faceboogitub.io/crea-ractapp/docs/deloyment)for more information.
 ### `npm run ej
